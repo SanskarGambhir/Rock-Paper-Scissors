@@ -1,0 +1,48 @@
+body{
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: arial;
+}
+
+.game-name{
+  color: white;
+  font-weight: bold;
+  font-family: arial;
+  font-size: 30px;
+}
+
+.rock-button,.paper-button,.scissor-button{
+  height: 120px;
+  width: 120px;
+  background-color: rgb(25, 25, 25);
+  border-color: white;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 3px;
+  margin-right: 10px;
+}
+
+.move-emoji{
+  height: 50px;
+  background-color: rgb(25, 25, 25);
+}
+
+.js-result{
+  font-family: arial;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 50px;
+}
+
+.js-score{
+  margin-top: 60px;
+}
+
+.reset-score-button,
+.auto-play-button {
+  background-color: white;
+  border: none;
+  font-size: 15px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
