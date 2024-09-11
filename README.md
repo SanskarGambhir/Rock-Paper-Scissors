@@ -8,6 +8,9 @@ HTML5: For structuring the game's layout.
 CSS: For styling the game interface and ensuring responsiveness.
 JavaScript: For implementing game logic and interactivity.
 
+![Screenshot 2024-09-11 213705](https://github.com/user-attachments/assets/05c51cd2-5f34-46f8-ab4c-f6acd322fb75)
+
+
 📜 How to Play:
 
 Choose Your Move: Click on Rock, Paper, or Scissors to make your choice.
